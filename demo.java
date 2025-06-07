@@ -15,7 +15,7 @@ public class demo {
       boolean value = sc.nextBoolean();
       System.out.print("Enter your name: ");
       String name = sc.next();
-      sc.nextLine();
+      System.out.println();
       
       System.out.println("Sum of " + num1 + " and " + num2 + " is: " + (num1 + num2));
       System.out.println("Difference between " + num1 + " and " + num2 + " is: " + (num1 - num2));
