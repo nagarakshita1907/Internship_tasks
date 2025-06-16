@@ -75,18 +75,10 @@ The program contains:
 ## 📝 Sample Input/Output
 
 ```
---Library Management System--
-1. Add Book
-2. Register Member
-3. Issue Book
-...
-Enter choice: 1
-Book Title: Java Basics
-Author: James Gosling
-Genre: Programming
-=> Book Added!
-```
-
+git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 124126.png"
+git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 124155.png"
+git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 130355.png"
+git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 130438.png"
 ---
 
 ## 🤝 Contributing
