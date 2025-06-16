@@ -75,10 +75,12 @@ The program contains:
 ## 📝 Sample Input/Output
 
 ```
-git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 124126.png"
-git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 124155.png"
-git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 130355.png"
-git add "C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-06-14 130438.png"
+git add  Screenshot 2025-06-14 124126.png
+git add  Screenshot 2025-06-14 124155.png
+git add  Screenshot 2025-06-14 130355.png
+git add  Screenshot 2025-06-14 130438.png
+git commit -m "Added screenshots"
+git push
 ---
 
 ## 🤝 Contributing
